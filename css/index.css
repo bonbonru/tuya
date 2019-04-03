@@ -1,0 +1,60 @@
+.head-i{
+    height: 545px;
+    position: relative;
+}
+/*页面头部背景*/
+.page-index{    background: url("../images/all/index/index_01.png") no-repeat left center;    }
+.page-app{  background: url("../images/all/app/app_01.png") no-repeat left center; }
+.page-contact{ background: url("../images/all/contact/contact_01.png") no-repeat left center; }
+.page-up{   background: url("../images/all/up/up_01.png") no-repeat left center; }
+
+
+.head-n {
+    position: absolute;
+    top: 112px;
+    left: 24px;
+    background-color: rgba(255,255,255,0.3);
+    border-radius: 11px;
+    height: 390px;
+    width: 140px;
+}
+
+
+.head-n ul{
+    list-style: none;
+    line-height: 82px;
+    padding: 25px 0 25px 0;
+    text-align: center;
+    font-size: 24px;
+    color: #fff;
+    font-weight: 400;
+    cursor: pointer;
+}
+.head-n a{
+    color:#fff;
+}
+.head-n a:hover{
+    color:#a80017;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+/*.head-l{*/
+    /*height: 112px;*/
+    /*text-align: left;*/
+/*}*/
+/*.head-l img{*/
+    /*margin-top: 27px;*/
+    /*margin-left: 44px;*/
+    /*margin-bottom: 26px;*/
+/*}*/
+/*.text-c {*/
+    /*width: 144px;*/
+
+/*}*/
